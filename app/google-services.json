@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "799779990745",
+    "project_id": "crave-345b3",
+    "storage_bucket": "crave-345b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799779990745:android:9d2ac391e532bd73a3a2c8",
+        "android_client_info": {
+          "package_name": "com.avinash.chatx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799779990745-ncm2tl1o7dcjr331tsk79ml5os1tfads.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSht_Szgg1RP4WGpDTFKEqT-gi4ZXDCiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "799779990745-ncm2tl1o7dcjr331tsk79ml5os1tfads.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
